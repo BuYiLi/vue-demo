@@ -1,5 +1,5 @@
 <template>
-    <div>foo hello</div>
+    <div>foo hello{{$t('navbar.index')}}</div>
 </template>
 
 <script>
